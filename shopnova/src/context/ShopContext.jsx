@@ -15,9 +15,9 @@ const initialState = {
   cart: [],        // [{ id, title, price, image, category, qty }]
   wishlist: [],    // [{ id, title, price, image, category }]
   user: {
-    name: 'Vishal Kumar Jha',
-    email: '2501730124@krmu.edu.in',
-    phone: '+91 9871474XXX',
+    name: 'mayank jaggi',
+    email: '2501730351@krmu.edu.in',
+    phone: '+91 70607XXX',
     avatar: 'CV',
     orders: [
       { id: '#SN-2024-0891', date: 'Apr 28, 2026', items: 3, total: 289.97, status: 'Delivered' },
